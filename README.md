@@ -7,3 +7,4 @@
 - [Nicolette Pacheco Contreras](https://github.com/Nico01-11)
 - [Samuel Sánchez Pardo](https://github.com/SanchezPardoSam)
 - [Javier Delgado Farro](https://github.com/JavierDelgadoFarro)
+- [Rober Lopez Vallejos](https://github.com/Lopez-Rober)
